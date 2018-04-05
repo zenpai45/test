@@ -1,0 +1,36 @@
+{
+   "packages":[
+      {
+         "name": "uStepper",
+         "maintainer": "ON Development IVS",		  
+         "websiteURL": "https://www.on-development.com",
+         "email": "administration@ustepper.com",
+		 "help": {
+        	"online": "https://www.ustepper.com"
+	   },
+     	"platforms":
+		[
+			 {
+	           "name": "uStepper",
+	           "architecture": "avr",
+	           "version": "1.0.0",
+	           "category": "uStepper",
+	           "url": "https://owncloud.parkalot.dk/index.php/s/cUPe9XvAofA1283/download",
+			   "checksum": "SHA-256:c9bf18beefdeb57dcabb8e8ef34d533e2ab0ec8f389b386ad3f320ca172c8b5c",
+	           "archiveFileName": "uStepper_hardware.zip",
+	           "size": "158198", 
+	           "boards":
+				[
+	              { "name": "uStepperS" }
+	           	],
+	           "toolsDependencies":
+				[				
+				]
+	        }
+	     ],      	
+		 "tools":
+		  [		
+		  ]
+		}
+	]  
+}
