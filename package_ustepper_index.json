@@ -105,10 +105,10 @@
 	           "architecture": "avr",
 	           "version": "2.0.0",
 	           "category": "uStepper",
-	           "url": "https://owncloud.parkalot.dk/index.php/s/a2TxDBGlsIXeRLp/download",
-			   "checksum": "SHA-256:28e92b77f79678a41f9aa218f1310332882fb5b39ee3e3f7d0e3bf70f0f650fe",
+	           "url": "https://owncloud.parkalot.dk/index.php/s/p3Dx4UlDqa4S2xh/download",
+			   "checksum": "SHA-256:377fae9a401b9fd173eadeaa5637a7dbd496546fe8e5fa4c3f098017f66b8052",
 	           "archiveFileName": "uStepper_hardware.zip",
-	           "size": "161970", 
+	           "size": "162021", 
 	           "boards":
 				[
 	              { "name": "uStepper" },
